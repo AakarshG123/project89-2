@@ -1,0 +1,37 @@
+body
+{
+	background-image: https://www.google.com/url?sa=i&url=https%3A%2F%2Fbadcoffee.club%2Fhow-to-change-macos-big-sur-login-screen-background-image%2F&psig=AOvVaw1fFWqdwragDvHF8wBjdsh5&ust=1622852451989000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKD_99ba_PACFQAAAAAdAAAAABAV;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 20px;
+		float: none !important;
+		border-radius: 15px;
+	}
+
+
+#input1 , #input2
+{
+	display: inline-block;
+	
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
